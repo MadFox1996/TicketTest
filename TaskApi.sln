@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.11.35303.130
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TaskApi", "TaskApi\TaskApi.csproj", "{E9087DE7-1122-437D-B567-DF5EACE3FC6D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TaskApi.BLL", "TaskApi.BLL\TaskApi.BLL.csproj", "{1163B2F6-2E41-4EDB-9274-5F9FAAA15A12}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TaskApi.DAL", "TaskApi.DAL\TaskApi.DAL.csproj", "{FE943853-7147-4E94-B4AF-498B727DF70F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E9087DE7-1122-437D-B567-DF5EACE3FC6D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E9087DE7-1122-437D-B567-DF5EACE3FC6D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E9087DE7-1122-437D-B567-DF5EACE3FC6D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E9087DE7-1122-437D-B567-DF5EACE3FC6D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1163B2F6-2E41-4EDB-9274-5F9FAAA15A12}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1163B2F6-2E41-4EDB-9274-5F9FAAA15A12}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1163B2F6-2E41-4EDB-9274-5F9FAAA15A12}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1163B2F6-2E41-4EDB-9274-5F9FAAA15A12}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FE943853-7147-4E94-B4AF-498B727DF70F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FE943853-7147-4E94-B4AF-498B727DF70F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FE943853-7147-4E94-B4AF-498B727DF70F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FE943853-7147-4E94-B4AF-498B727DF70F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {9EEDF489-C194-4C76-87BA-320E01F39E93}
+	EndGlobalSection
+EndGlobal
